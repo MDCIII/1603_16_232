@@ -24,7 +24,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:232:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:232:1:1> ;
     skos:prefLabel "Araeta"@eng-Latn ;
-    wdata:q7200235 "ER101" ;
+    wdata:Q7200235 "ER101" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -104,7 +104,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:232:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:232:1:1> ;
     skos:prefLabel "Maekel Deb.Keih Bahri"@eng-Latn ;
-    wdata:q7200235 "ER102" ;
+    wdata:Q7200235 "ER102" ;
 .
 
 <urn:mdciii:1603:16:232:2:103>
@@ -116,7 +116,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:232:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:232:1:1> ;
     skos:prefLabel "Debub Deb.Keih Bahri"@eng-Latn ;
-    wdata:q7200235 "ER103" ;
+    wdata:Q7200235 "ER103" ;
 .
 
 <urn:mdciii:1603:16:232:2:104>
@@ -128,7 +128,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:232:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:232:1:1> ;
     skos:prefLabel "Asseb"@eng-Latn ;
-    wdata:q7200235 "ER104" ;
+    wdata:Q7200235 "ER104" ;
 .
 
 <urn:mdciii:1603:16:232:2:201>
@@ -140,7 +140,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:232:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:232:1:2> ;
     skos:prefLabel "Serejeka"@eng-Latn ;
-    wdata:q7200235 "ER201" ;
+    wdata:Q7200235 "ER201" ;
 .
 
 <urn:mdciii:1603:16:232:2:202>
@@ -152,7 +152,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:232:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:232:1:2> ;
     skos:prefLabel "Berik"@eng-Latn ;
-    wdata:q7200235 "ER202" ;
+    wdata:Q7200235 "ER202" ;
 .
 
 <urn:mdciii:1603:16:232:2:203>
@@ -164,7 +164,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:232:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:232:1:2> ;
     skos:prefLabel "Galanefhi"@eng-Latn ;
-    wdata:q7200235 "ER203" ;
+    wdata:Q7200235 "ER203" ;
 .
 
 <urn:mdciii:1603:16:232:2:204>
@@ -176,7 +176,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:232:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:232:1:2> ;
     skos:prefLabel "Semienawi Mibrak"@eng-Latn ;
-    wdata:q7200235 "ER204" ;
+    wdata:Q7200235 "ER204" ;
 .
 
 <urn:mdciii:1603:16:232:2:205>
@@ -188,7 +188,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:232:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:232:1:2> ;
     skos:prefLabel "Debubawi Mibrak"@eng-Latn ;
-    wdata:q7200235 "ER205" ;
+    wdata:Q7200235 "ER205" ;
 .
 
 <urn:mdciii:1603:16:232:2:206>
@@ -200,7 +200,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:232:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:232:1:2> ;
     skos:prefLabel "Debubawi Mierab"@eng-Latn ;
-    wdata:q7200235 "ER206" ;
+    wdata:Q7200235 "ER206" ;
 .
 
 <urn:mdciii:1603:16:232:2:207>
@@ -212,7 +212,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:232:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:232:1:2> ;
     skos:prefLabel "Semienawi Mierab"@eng-Latn ;
-    wdata:q7200235 "ER207" ;
+    wdata:Q7200235 "ER207" ;
 .
 
 <urn:mdciii:1603:16:232:2:301>
@@ -224,7 +224,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:232:1:3> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:232:1:3> ;
     skos:prefLabel "Ghelaelo"@eng-Latn ;
-    wdata:q7200235 "ER301" ;
+    wdata:Q7200235 "ER301" ;
 .
 
 <urn:mdciii:1603:16:232:2:302>
@@ -236,7 +236,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:232:1:3> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:232:1:3> ;
     skos:prefLabel "Foro"@eng-Latn ;
-    wdata:q7200235 "ER302" ;
+    wdata:Q7200235 "ER302" ;
 .
 
 <urn:mdciii:1603:16:232:2:303>
@@ -248,7 +248,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:232:1:3> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:232:1:3> ;
     skos:prefLabel "Dahlak"@eng-Latn ;
-    wdata:q7200235 "ER303" ;
+    wdata:Q7200235 "ER303" ;
 .
 
 <urn:mdciii:1603:16:232:2:304>
@@ -260,7 +260,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:232:1:3> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:232:1:3> ;
     skos:prefLabel "Massawa"@eng-Latn ;
-    wdata:q7200235 "ER304" ;
+    wdata:Q7200235 "ER304" ;
 .
 
 <urn:mdciii:1603:16:232:2:305>
@@ -272,7 +272,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:232:1:3> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:232:1:3> ;
     skos:prefLabel "Ghinda"@eng-Latn ;
-    wdata:q7200235 "ER305" ;
+    wdata:Q7200235 "ER305" ;
 .
 
 <urn:mdciii:1603:16:232:2:306>
@@ -284,7 +284,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:232:1:3> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:232:1:3> ;
     skos:prefLabel "Shieb"@eng-Latn ;
-    wdata:q7200235 "ER306" ;
+    wdata:Q7200235 "ER306" ;
 .
 
 <urn:mdciii:1603:16:232:2:307>
@@ -296,7 +296,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:232:1:3> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:232:1:3> ;
     skos:prefLabel "Afabet"@eng-Latn ;
-    wdata:q7200235 "ER307" ;
+    wdata:Q7200235 "ER307" ;
 .
 
 <urn:mdciii:1603:16:232:2:308>
@@ -308,7 +308,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:232:1:3> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:232:1:3> ;
     skos:prefLabel "Nakfa"@eng-Latn ;
-    wdata:q7200235 "ER308" ;
+    wdata:Q7200235 "ER308" ;
 .
 
 <urn:mdciii:1603:16:232:2:309>
@@ -320,7 +320,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:232:1:3> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:232:1:3> ;
     skos:prefLabel "Karura"@eng-Latn ;
-    wdata:q7200235 "ER309" ;
+    wdata:Q7200235 "ER309" ;
 .
 
 <urn:mdciii:1603:16:232:2:310>
@@ -332,7 +332,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:232:1:3> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:232:1:3> ;
     skos:prefLabel "Adobha"@eng-Latn ;
-    wdata:q7200235 "ER310" ;
+    wdata:Q7200235 "ER310" ;
 .
 
 <urn:mdciii:1603:16:232:2:401>
@@ -344,7 +344,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:232:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:232:1:4> ;
     skos:prefLabel "Adi Tekeliezan"@eng-Latn ;
-    wdata:q7200235 "ER401" ;
+    wdata:Q7200235 "ER401" ;
 .
 
 <urn:mdciii:1603:16:232:2:402>
@@ -356,7 +356,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:232:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:232:1:4> ;
     skos:prefLabel "Elabered"@eng-Latn ;
-    wdata:q7200235 "ER402" ;
+    wdata:Q7200235 "ER402" ;
 .
 
 <urn:mdciii:1603:16:232:2:403>
@@ -368,7 +368,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:232:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:232:1:4> ;
     skos:prefLabel "Gheleb"@eng-Latn ;
-    wdata:q7200235 "ER403" ;
+    wdata:Q7200235 "ER403" ;
 .
 
 <urn:mdciii:1603:16:232:2:404>
@@ -380,7 +380,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:232:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:232:1:4> ;
     skos:prefLabel "Keren"@eng-Latn ;
-    wdata:q7200235 "ER404" ;
+    wdata:Q7200235 "ER404" ;
 .
 
 <urn:mdciii:1603:16:232:2:405>
@@ -392,7 +392,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:232:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:232:1:4> ;
     skos:prefLabel "Hagaz"@eng-Latn ;
-    wdata:q7200235 "ER405" ;
+    wdata:Q7200235 "ER405" ;
 .
 
 <urn:mdciii:1603:16:232:2:406>
@@ -404,7 +404,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:232:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:232:1:4> ;
     skos:prefLabel "Halhal"@eng-Latn ;
-    wdata:q7200235 "ER406" ;
+    wdata:Q7200235 "ER406" ;
 .
 
 <urn:mdciii:1603:16:232:2:407>
@@ -416,7 +416,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:232:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:232:1:4> ;
     skos:prefLabel "Habero"@eng-Latn ;
-    wdata:q7200235 "ER407" ;
+    wdata:Q7200235 "ER407" ;
 .
 
 <urn:mdciii:1603:16:232:2:408>
@@ -428,7 +428,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:232:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:232:1:4> ;
     skos:prefLabel "Asmat"@eng-Latn ;
-    wdata:q7200235 "ER408" ;
+    wdata:Q7200235 "ER408" ;
 .
 
 <urn:mdciii:1603:16:232:2:409>
@@ -440,7 +440,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:232:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:232:1:4> ;
     skos:prefLabel "Kerkebet"@eng-Latn ;
-    wdata:q7200235 "ER409" ;
+    wdata:Q7200235 "ER409" ;
 .
 
 <urn:mdciii:1603:16:232:2:410>
@@ -452,7 +452,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:232:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:232:1:4> ;
     skos:prefLabel "Sela"@eng-Latn ;
-    wdata:q7200235 "ER410" ;
+    wdata:Q7200235 "ER410" ;
 .
 
 <urn:mdciii:1603:16:232:2:411>
@@ -464,7 +464,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:232:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:232:1:4> ;
     skos:prefLabel "Hamelmalo"@eng-Latn ;
-    wdata:q7200235 "ER411" ;
+    wdata:Q7200235 "ER411" ;
 .
 
 <urn:mdciii:1603:16:232:2:501>
@@ -476,7 +476,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:232:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:232:1:5> ;
     skos:prefLabel "Logo Anseba"@eng-Latn ;
-    wdata:q7200235 "ER501" ;
+    wdata:Q7200235 "ER501" ;
 .
 
 <urn:mdciii:1603:16:232:2:502>
@@ -488,7 +488,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:232:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:232:1:5> ;
     skos:prefLabel "Mensura"@eng-Latn ;
-    wdata:q7200235 "ER502" ;
+    wdata:Q7200235 "ER502" ;
 .
 
 <urn:mdciii:1603:16:232:2:503>
@@ -500,7 +500,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:232:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:232:1:5> ;
     skos:prefLabel "Akurdet"@eng-Latn ;
-    wdata:q7200235 "ER503" ;
+    wdata:Q7200235 "ER503" ;
 .
 
 <urn:mdciii:1603:16:232:2:504>
@@ -512,7 +512,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:232:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:232:1:5> ;
     skos:prefLabel "Dige"@eng-Latn ;
-    wdata:q7200235 "ER504" ;
+    wdata:Q7200235 "ER504" ;
 .
 
 <urn:mdciii:1603:16:232:2:505>
@@ -524,7 +524,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:232:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:232:1:5> ;
     skos:prefLabel "Mogolo"@eng-Latn ;
-    wdata:q7200235 "ER505" ;
+    wdata:Q7200235 "ER505" ;
 .
 
 <urn:mdciii:1603:16:232:2:506>
@@ -536,7 +536,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:232:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:232:1:5> ;
     skos:prefLabel "Shambuko"@eng-Latn ;
-    wdata:q7200235 "ER506" ;
+    wdata:Q7200235 "ER506" ;
 .
 
 <urn:mdciii:1603:16:232:2:507>
@@ -548,7 +548,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:232:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:232:1:5> ;
     skos:prefLabel "Barentu"@eng-Latn ;
-    wdata:q7200235 "ER507" ;
+    wdata:Q7200235 "ER507" ;
 .
 
 <urn:mdciii:1603:16:232:2:508>
@@ -560,7 +560,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:232:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:232:1:5> ;
     skos:prefLabel "Gogne"@eng-Latn ;
-    wdata:q7200235 "ER508" ;
+    wdata:Q7200235 "ER508" ;
 .
 
 <urn:mdciii:1603:16:232:2:509>
@@ -572,7 +572,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:232:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:232:1:5> ;
     skos:prefLabel "Forto"@eng-Latn ;
-    wdata:q7200235 "ER509" ;
+    wdata:Q7200235 "ER509" ;
 .
 
 <urn:mdciii:1603:16:232:2:510>
@@ -584,7 +584,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:232:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:232:1:5> ;
     skos:prefLabel "Haykota"@eng-Latn ;
-    wdata:q7200235 "ER510" ;
+    wdata:Q7200235 "ER510" ;
 .
 
 <urn:mdciii:1603:16:232:2:511>
@@ -596,7 +596,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:232:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:232:1:5> ;
     skos:prefLabel "Lalay Gash"@eng-Latn ;
-    wdata:q7200235 "ER511" ;
+    wdata:Q7200235 "ER511" ;
 .
 
 <urn:mdciii:1603:16:232:2:512>
@@ -608,7 +608,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:232:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:232:1:5> ;
     skos:prefLabel "Omhajer"@eng-Latn ;
-    wdata:q7200235 "ER512" ;
+    wdata:Q7200235 "ER512" ;
 .
 
 <urn:mdciii:1603:16:232:2:513>
@@ -620,7 +620,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:232:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:232:1:5> ;
     skos:prefLabel "Tesseney"@eng-Latn ;
-    wdata:q7200235 "ER513" ;
+    wdata:Q7200235 "ER513" ;
 .
 
 <urn:mdciii:1603:16:232:2:514>
@@ -632,7 +632,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:232:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:232:1:5> ;
     skos:prefLabel "Molqi"@eng-Latn ;
-    wdata:q7200235 "ER514" ;
+    wdata:Q7200235 "ER514" ;
 .
 
 <urn:mdciii:1603:16:232:2:601>
@@ -644,7 +644,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:232:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:232:1:6> ;
     skos:prefLabel "Dbarwa"@eng-Latn ;
-    wdata:q7200235 "ER601" ;
+    wdata:Q7200235 "ER601" ;
 .
 
 <urn:mdciii:1603:16:232:2:602>
@@ -656,7 +656,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:232:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:232:1:6> ;
     skos:prefLabel "Areza"@eng-Latn ;
-    wdata:q7200235 "ER602" ;
+    wdata:Q7200235 "ER602" ;
 .
 
 <urn:mdciii:1603:16:232:2:603>
@@ -668,7 +668,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:232:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:232:1:6> ;
     skos:prefLabel "Mendefera"@eng-Latn ;
-    wdata:q7200235 "ER603" ;
+    wdata:Q7200235 "ER603" ;
 .
 
 <urn:mdciii:1603:16:232:2:604>
@@ -680,7 +680,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:232:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:232:1:6> ;
     skos:prefLabel "Dekemhare"@eng-Latn ;
-    wdata:q7200235 "ER604" ;
+    wdata:Q7200235 "ER604" ;
 .
 
 <urn:mdciii:1603:16:232:2:605>
@@ -692,7 +692,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:232:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:232:1:6> ;
     skos:prefLabel "Segeneity"@eng-Latn ;
-    wdata:q7200235 "ER605" ;
+    wdata:Q7200235 "ER605" ;
 .
 
 <urn:mdciii:1603:16:232:2:606>
@@ -704,7 +704,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:232:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:232:1:6> ;
     skos:prefLabel "Adi Keyh"@eng-Latn ;
-    wdata:q7200235 "ER606" ;
+    wdata:Q7200235 "ER606" ;
 .
 
 <urn:mdciii:1603:16:232:2:607>
@@ -716,7 +716,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:232:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:232:1:6> ;
     skos:prefLabel "Senafe"@eng-Latn ;
-    wdata:q7200235 "ER607" ;
+    wdata:Q7200235 "ER607" ;
 .
 
 <urn:mdciii:1603:16:232:2:608>
@@ -728,7 +728,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:232:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:232:1:6> ;
     skos:prefLabel "Tsorona"@eng-Latn ;
-    wdata:q7200235 "ER608" ;
+    wdata:Q7200235 "ER608" ;
 .
 
 <urn:mdciii:1603:16:232:2:609>
@@ -740,7 +740,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:232:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:232:1:6> ;
     skos:prefLabel "Adi Quala"@eng-Latn ;
-    wdata:q7200235 "ER609" ;
+    wdata:Q7200235 "ER609" ;
 .
 
 <urn:mdciii:1603:16:232:2:610>
@@ -752,7 +752,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:232:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:232:1:6> ;
     skos:prefLabel "Emni Haili"@eng-Latn ;
-    wdata:q7200235 "ER610" ;
+    wdata:Q7200235 "ER610" ;
 .
 
 <urn:mdciii:1603:16:232:2:611>
@@ -764,7 +764,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:232:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:232:1:6> ;
     skos:prefLabel "Maimine"@eng-Latn ;
-    wdata:q7200235 "ER611" ;
+    wdata:Q7200235 "ER611" ;
 .
 
 <urn:mdciii:1603:16:232:2:612>
@@ -776,6 +776,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:232:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:232:1:6> ;
     skos:prefLabel "May Aini"@eng-Latn ;
-    wdata:q7200235 "ER612" ;
+    wdata:Q7200235 "ER612" ;
 .
 
